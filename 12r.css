@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(25,25,25);
+    color: white;
+    font-family: Arial;
+    font-size:25px;
+   }
+   .css-img{
+    height: 120px;
+   }
+   .css-button{
+    background-color: red;
+    border-radius: 150px;
+    border-color: white;
+    border-width: 10px;
+    padding: 20px;
+    margin:10px;
+    cursor: pointer;
+
+   }
+   .css-button:hover{
+       background-color:greenyellow;
+   }
+   .css-resert,.css-autoplay{
+    padding: 15px;
+    background-color: blueviolet;
+    color: white;
+    font-size: 30px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+   }
+   .css-resert:hover{
+     color: black;
+   }
+   .css-autoplay:hover{
+    color:black;
+   }
+   #js-result{
+    font-size: 30px;
+    font:bolder;
+   }
+   .js-yes,.js-no{
+    background-color: yellow;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans';
+    border-radius: 100px;
+
+
+   }
+   .js-no{
+    padding: 10px 12px 10px 12px;
+   }
